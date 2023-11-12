@@ -1,9 +1,9 @@
-### Hi there 👋, I'm Kriss.
+## Hi there 👋, I'm Kriss.
 - 📖 3rd year Computer Science student at AGH UST in Kraków, Poland
 - 🌍 I speak English(B2) and Polish(Native)
 - ⛵ When I'm not studying or working on my projects, I'm probably sailing
 ---
-### Technologies:
+## Technologies:
 For my projects i used:
 <p>
 <img width="21" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
