@@ -32,6 +32,7 @@ Other technologies i had contact with:
 <img width="21" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
 <img width="21" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>
 <img width="21" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/>
+ <a href="https://julialang.org/" title="Julia"><img src="https://github.com/get-icon/geticon/raw/master/icons/julia.svg" alt="Julia" width="21px" height="21px"></a>
 <a href="https://www.haskell.com/" title="Haskell"><img src="https://raw.githubusercontent.com/patil-prajwal/Tech-Stack-Icons/main/Icons/haskell-icon.svg" alt="Haskell" width="21px" height="21px">
 <a href="https://www.r-project.org/" title="R"><img src="https://github.com/get-icon/geticon/raw/master/icons/r-lang.svg" alt="R" width="21px" height="21px"></a>
 <a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="21px" height="21px"></a>
