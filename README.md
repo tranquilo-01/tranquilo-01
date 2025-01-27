@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Kriss.
-- 📖 3rd year Computer Science student at AGH UST in Kraków, Poland
+- 📖 4th year Computer Science student at AGH UST in Kraków, Poland
 - 🌍 I speak English(B2) and Polish(Native)
 - ⛵ When I'm not studying or working on my projects, I'm probably sailing
 ### Technologies:
