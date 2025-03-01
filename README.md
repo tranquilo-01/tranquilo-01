@@ -1,8 +1,13 @@
 ### Hi there 👋, I'm Kriss.
-- 📖 4th year Computer Science student at AGH UST in Kraków, Poland
-- 🌍 I speak English(B2) and Polish(Native)
-- ⛵ When I'm not studying or working on my projects, I'm probably sailing
-### Technologies:
+
+🚀 **Computer Science Enthusiast | Master's Student at AGH UST**  
+
+- 🎓 **Bachelor of Science in Computer Science**  
+- 📖 **Master's in CS @ AGH UST, Kraków, Poland**  
+- 🌍 **Languages:** English (B2) & Polish (Native)  
+- ⛵ **When I'm not coding, you'll find me sailing!**
+  
+### Technologies & Tools:
 For my projects and work i used:
 <p>
 <img width="21" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
@@ -41,7 +46,7 @@ Other tools i had contact with:
 <img width="21" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
 <img width="21" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>
 <img width="21" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/>
- <a href="https://julialang.org/" title="Julia"><img src="https://github.com/get-icon/geticon/raw/master/icons/julia.svg" alt="Julia" width="21px" height="21px"></a>
+<a href="https://julialang.org/" title="Julia"><img src="https://github.com/get-icon/geticon/raw/master/icons/julia.svg" alt="Julia" width="21px" height="21px"></a>
 <a href="https://www.haskell.com/" title="Haskell"><img src="https://raw.githubusercontent.com/patil-prajwal/Tech-Stack-Icons/main/Icons/haskell-icon.svg" alt="Haskell" width="21px" height="21px">
 <a href="https://www.r-project.org/" title="R"><img src="https://github.com/get-icon/geticon/raw/master/icons/r-lang.svg" alt="R" width="21px" height="21px"></a>
 <a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="21px" height="21px"></a>
